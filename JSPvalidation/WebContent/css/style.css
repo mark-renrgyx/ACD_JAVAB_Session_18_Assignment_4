@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+p.error {
+	color: red;
+	font-size: 2em;
+}
+
+footer {
+	background: silver;
+}
